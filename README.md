@@ -78,7 +78,7 @@ Made by [Mostafijur Rahman](https://github.com/mostafijur566)
 
 ## :camera_flash: Screenshots
 
-<img src="screen_shot_1.PNG" width="350" title="hover text">   <img src="ss.2.PNG" width="350" title="hover text">
+<img src="screen_shot_1.png" width="350" title="hover text">   <img src="ss.2.PNG" width="350" title="hover text">
 <img src="ss.3.PNG" width="350" title="hover text">   <img src="ss.4.PNG" width="350" title="hover text">   
 <img src="ss.5.PNG" width="350" title="hover text">   <img src="ss.6.PNG" width="350" title="hover text">
 <img src="ss.7.PNG" width="350" title="hover text">
