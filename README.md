@@ -50,7 +50,7 @@ The project directory structure is as follows:
 
 ```
 ├── android
-├── assets
+├── images
 ├── build
 ├── android
 ├── installers
